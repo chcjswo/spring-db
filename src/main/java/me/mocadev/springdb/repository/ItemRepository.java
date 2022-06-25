@@ -3,6 +3,8 @@ package me.mocadev.springdb.repository;
 import java.util.List;
 import java.util.Optional;
 import me.mocadev.springdb.domain.Item;
+import me.mocadev.springdb.repository.ItemSearchCond;
+import me.mocadev.springdb.repository.ItemUpdateDto;
 
 public interface ItemRepository {
 
